@@ -1,2 +1,6 @@
 # Data analysis
 pandas
+
+# Scraping
+requests
+lxml # to parse HTML/XML
