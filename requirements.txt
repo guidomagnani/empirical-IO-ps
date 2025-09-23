@@ -1,6 +1,10 @@
 # Data analysis
 pandas
 
+# Visualization
+matplotlib
+
 # Scraping
 requests
 lxml # to parse HTML/XML
+itunes-app-scraper-dmi
