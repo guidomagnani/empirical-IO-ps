@@ -1,0 +1,501 @@
+app_id,rank,name,id,price,currency,genre,avg_score,reviews_count,developer,estimated_downloads,macro_category,final_category
+479516143,1,Minecraft: Play with Friends,479516143.0,6.99,USD,Games,4.50122,773878.0,Mojang,15477560.0,Games,Games
+1118115766,2,Bloons TD 6,1118115766.0,6.99,USD,Games,4.85886,325307.0,Ninja Kiwi,6506140.0,Games,Games
+342548956,3,TurboScan™ Pro: PDF scanner,342548956.0,9.99,USD,Business,4.92556,289707.0,Piksoft Inc.,5794140.0,Productivity,Productivity
+623592465,4,Heads Up!,623592465.0,1.99,USD,Games,4.79235,261015.0,Warner Bros.,5220300.0,Games,Games
+625334537,5,Geometry Dash,625334537.0,2.99,USD,Games,4.52792,223505.0,RobTop Games AB,4470100.0,Games,Games
+1477966166,6,MONOPOLY: The Board Game,1477966166.0,4.99,USD,Games,4.66026,179836.0,Marmalade Game Studio,3596720.0,Games,Games
+525818839,7,Plague Inc.,525818839.0,0.99,USD,Games,4.81247,156361.0,Ndemic Creations,3127220.0,Games,Games
+284791396,8,Solitaire by MobilityWare,284791396.0,4.99,USD,Games,4.77149,132802.0,MobilityWare,2656040.0,Games,Games
+723795263,9,Trivia Crack (No Ads),723795263.0,6.99,USD,Games,4.66559,100995.0,Etermax,2019900.0,Games,Games
+763692274,10,Grand Theft Auto: San Andreas,763692274.0,6.99,USD,Games,4.67565,108043.0,Rockstar Games,2160860.0,Games,Games
+563718995,11,Bloons TD 5,563718995.0,2.99,USD,Games,4.82242,96261.0,Ninja Kiwi,1925220.0,Games,Games
+1400579543,12,imo video calls and chat HD,1400579543.0,4.99,USD,Social Networking,3.36144,74488.0,Baby Penguin,1489760.0,Social,Outside Good
+294934058,13,HotSchedules,294934058.0,2.99,USD,Business,4.60798,67027.0,HotSchedules,1340540.0,Productivity,Productivity
+892279069,14,Star Walk 2: Stars and Planets,892279069.0,2.99,USD,Education,4.72086,66189.0,Vito Technology Inc.,1323780.0,Education,Education
+338088432,15,Free Tone - Calling & Texting,338088432.0,1.99,USD,Social Networking,4.70727,62369.0,"TextMe, Inc.",1247380.0,Social,Outside Good
+1406710800,16,Stardew Valley,1406710800.0,4.99,USD,Games,4.81963,62466.0,ConcernedApe,1249320.0,Games,Games
+1164801111,17,AutoSleep Track Sleep on Watch,1164801111.0,8.99,USD,Health & Fitness,4.7069,59460.0,Tantsissa,1189200.0,Lifestyle,Lifestyle
+319295332,18,TuneIn Radio: Music & Sports,319295332.0,9.99,USD,Music,4.71966,55564.0,TuneIn,1111280.0,Entertainment,Entertainment
+1596736236,19,Red's First Flight,1596736236.0,0.99,USD,Games,4.78571,64534.0,Rovio Entertainment Oyj,1290680.0,Games,Games
+640364616,20,Terraria,640364616.0,4.99,USD,Games,4.45626,47010.0,"505 Games (US), Inc.",940200.0,Games,Games
+497716362,21,TonalEnergy Tuner & Metronome,497716362.0,5.99,USD,Music,4.85629,51561.0,"TonalEnergy, Inc",1031220.0,Entertainment,Entertainment
+1303222868,22,Paprika Recipe Manager 3,1303222868.0,4.99,USD,Food & Drink,4.90125,49518.0,Hindsight Labs LLC,990360.0,Lifestyle,Outside Good
+866450515,23,Forest: Focus for Productivity,866450515.0,3.99,USD,Productivity,4.8327,45601.0,"SEEKRTECH CO., LTD.",912020.0,Productivity,Productivity
+289894882,24,White Noise,289894882.0,0.99,USD,Health & Fitness,4.84388,43690.0,TMSOFT,873800.0,Lifestyle,Lifestyle
+325683306,25,MyRadar Weather Radar Pro,325683306.0,5.99,USD,Weather,4.83624,41855.0,"Aviation Data Systems, Inc",837100.0,Weather,Weather
+1439187947,26,Rebel Inc.,1439187947.0,1.99,USD,Games,4.79103,40546.0,Ndemic Creations,810920.0,Games,Games
+391855805,27,Spider Solitaire MobilityWare,391855805.0,4.99,USD,Games,4.80983,39254.0,MobilityWare,785080.0,Games,Games
+1248033433,28,Kingdom Rush Vengeance TD Game,1248033433.0,2.99,USD,Games,4.82934,38914.0,Ironhide S.A.,778280.0,Games,Games
+1093131935,29,Incredibox,1093131935.0,4.99,USD,Games,4.89311,44437.0,So Far So Good,888740.0,Games,Games
+1286676015,30,The Room: Old Sins,1286676015.0,4.99,USD,Games,4.94044,34920.0,Fireproof Studios Limited,698400.0,Games,Games
+363738376,31,forScore,363738376.0,24.99,USD,Music,4.81809,38530.0,"forScore, LLC",770600.0,Entertainment,Entertainment
+918054748,32,The Room Three,918054748.0,3.99,USD,Games,4.93534,33651.0,Fireproof Studios Limited,673020.0,Games,Games
+1150534552,33,Clue: Classic Edition,1150534552.0,5.99,USD,Games,4.70607,34345.0,Marmalade Game Studio,686900.0,Games,Games
+730712409,34,ProCam - Pro Camera,730712409.0,9.99,USD,Photo & Video,4.61618,33995.0,Tinkerworks Apps,679900.0,Entertainment,Entertainment
+691121579,35,AdBlock,691121579.0,1.99,USD,Utilities,4.30056,33404.0,AdBlock Labs,668080.0,Productivity,Productivity
+1117405948,36,The Game of Life,1117405948.0,4.99,USD,Games,4.52226,31655.0,Marmalade Game Studio,633100.0,Games,Games
+475249619,37,My Macros+ | Diet & Calories,475249619.0,0.0,USD,Health & Fitness,4.67774,32558.0,My Macros LLC,651160.0,Lifestyle,Lifestyle
+283179414,38,Solebon Solitaire - 50 Games,283179414.0,9.99,USD,Games,4.82488,31482.0,Solebon LLC,629640.0,Games,Games
+435871950,39,HappyCow - Vegan Food Near You,435871950.0,4.99,USD,Travel,4.87772,31371.0,HappyCow,627420.0,Travel,Travel
+307868751,40,JotNot Scanner App Pro,307868751.0,6.99,USD,Business,4.88016,29631.0,MobiTech 3000 LLC,592620.0,Productivity,Productivity
+310647896,41,WeatherBug Elite,310647896.0,49.99,USD,Weather,4.73593,28905.0,WeatherBug,578100.0,Weather,Weather
+837860959,42,Mini Metro,837860959.0,3.99,USD,Games,4.86081,30233.0,Dinosaur Polo Club,604660.0,Games,Games
+1512751689,43,The Game of Life 2,1512751689.0,4.99,USD,Games,4.77001,30706.0,Marmalade Game Studio,614120.0,Games,Games
+385756768,44,Dictionary.com Pro English,,,,,,,,,,
+1306844643,45,Sonic Runners Adventure,1306844643.0,2.99,USD,Games,4.68171,27701.0,Gameloft,554020.0,Games,Games
+435355256,46,EpocCam Webcamera for Computer,,,,,,,,,,
+1293681293,47,Pocket Build,1293681293.0,0.99,USD,Games,4.62744,26680.0,MoonBear LTD,533600.0,Games,Games
+1056920931,48,Iron Marines: RTS offline game,1056920931.0,0.99,USD,Games,4.78233,25736.0,Ironhide S.A.,514720.0,Games,Games
+963034692,49,Streaks,963034692.0,5.99,USD,Health & Fitness,4.81895,27298.0,Crunchy Bagel,545960.0,Lifestyle,Lifestyle
+821560738,50,AnyFont,821560738.0,1.99,USD,Utilities,4.58776,25883.0,Evo Tec Labs @ Pepperbit Online,517660.0,Productivity,Productivity
+904237743,51,Things 3,904237743.0,9.99,USD,Productivity,4.81602,26700.0,Cultured Code GmbH & Co. KG,534000.0,Productivity,Productivity
+1062515791,52,The House of Da Vinci,1062515791.0,3.99,USD,Games,4.77506,24615.0,Blue Brain Games,492300.0,Games,Games
+329981776,53,Sudoku ″,329981776.0,1.99,USD,Games,4.82566,26271.0,"Mind The Frog, Inc.",525420.0,Games,Games
+1062022008,54,LumaFusion,1062022008.0,29.99,USD,Photo & Video,4.75502,24207.0,Luma Touch LLC,484140.0,Entertainment,Entertainment
+1295610132,55,Screen Mirroring + for Roku,1295610132.0,9.99,USD,Productivity,3.46522,24640.0,Kraus und Karnath GbR 2Kit Consulting,492800.0,Productivity,Productivity
+1162580001,56,Game Dev Tycoon,1162580001.0,4.99,USD,Games,4.90028,23275.0,Greenheart Games Pty. Ltd.,465500.0,Games,Games
+423198259,57,Chess Tiger Pro,423198259.0,9.99,USD,Games,4.85402,23031.0,Christophe Théron,460620.0,Games,Games
+284862767,58,FreeCell,284862767.0,4.99,USD,Games,4.79856,21729.0,MobilityWare,434580.0,Games,Games
+912536422,59,Five Nights at Freddy's,912536422.0,2.99,USD,Games,4.67384,22075.0,CLICKTEAM LLC USA,441500.0,Games,Games
+951627022,60,Photo Scanner Plus,951627022.0,1.99,USD,Photo & Video,4.79045,21503.0,Photomyne LTD,430060.0,Entertainment,Entertainment
+1084860489,61,Chameleon Run,1084860489.0,1.99,USD,Games,4.69909,20272.0,Noodlecake,405440.0,Games,Games
+1239299402,62,Street Fighter IV CE,1239299402.0,0.99,USD,Games,4.77385,20690.0,CAPCOM,413800.0,Games,Games
+478126577,63,Merriam-Webster Dictionary+,478126577.0,9.99,USD,Reference,4.84659,20755.0,"Merriam-Webster, Inc.",415100.0,Education,Education
+1117998129,64,Human Anatomy Atlas 2025,1117998129.0,24.99,USD,Medical,4.85025,19726.0,Visible Body Apps,394520.0,Health,Health
+577499909,65,TapeACall Pro: Call Recorder,577499909.0,10.99,USD,Business,4.52235,18478.0,Mosaic S.r.l.,369560.0,Productivity,Productivity
+596684220,66,Essential Anatomy 5,596684220.0,19.99,USD,Medical,4.8417,19324.0,3D4Medical from Elsevier,386480.0,Health,Health
+1444761746,67,RFS - Real Flight Simulator,1444761746.0,0.99,USD,Games,4.63384,21242.0,RORTOS SRL,424840.0,Games,Games
+650684932,68,OBD Fusion,650684932.0,9.99,USD,Travel,4.73306,18387.0,"OCTech, LLC",367740.0,Travel,Travel
+432791399,69,Cloud Baby Monitor,432791399.0,6.99,USD,Lifestyle,4.78217,17651.0,VIGI Limited,353020.0,Lifestyle,Lifestyle
+1197552569,70,Poly Bridge,1197552569.0,1.99,USD,Games,4.82141,17655.0,Dry Cactus,353100.0,Games,Games
+1106831630,71,ROME: Total War,1106831630.0,9.99,USD,Games,4.83764,18145.0,Feral Interactive Ltd,362900.0,Games,Games
+401818935,72,Genius Scan Enterprise - PDF,401818935.0,49.99,USD,Business,4.88673,17330.0,The Grizzly Labs,346600.0,Productivity,Productivity
+1257281849,73,SkySafari,1257281849.0,6.99,USD,Reference,4.72025,17369.0,Simulation Curriculum Corp.,347380.0,Education,Education
+949490225,74,Print to Size,949490225.0,2.99,USD,Photo & Video,4.85536,17830.0,Clafou Ltd,356600.0,Entertainment,Entertainment
+667362389,75,The Room Two,667362389.0,1.99,USD,Games,4.89736,16243.0,Fireproof Studios Limited,324860.0,Games,Games
+388624839,76,CamScanner + | OCR Scanner,388624839.0,0.99,USD,Productivity,4.85412,16617.0,Linguan Data,332340.0,Productivity,Productivity
+980368562,77,FitMenCook - Healthy Recipes,980368562.0,3.99,USD,Food & Drink,4.91414,15584.0,Nibble Apps Ltd,311680.0,Lifestyle,Outside Good
+578448682,78,Grand Theft Auto: Vice City,578448682.0,4.99,USD,Games,4.53124,16053.0,Rockstar Games,321060.0,Games,Games
+1171040772,79,Reigns: Her Majesty,1171040772.0,2.99,USD,Games,4.83883,15307.0,Devolver,306140.0,Games,Games
+366111277,80,Quran Majeed Pro القرآن المجيد,366111277.0,19.99,USD,Reference,4.865,15459.0,Pakistan Data Management Services,309180.0,Education,Education
+379869627,81,Living Earth - Clock & Weather,379869627.0,5.99,USD,Weather,4.77723,15289.0,"Radiantlabs, LLC",305780.0,Weather,Weather
+336901296,82,Windfinder Pro: Wind & Weather,336901296.0,12.99,USD,Weather,4.82734,15012.0,Windfinder,300240.0,Weather,Weather
+598581396,83,Kingdom Rush Frontiers TD,598581396.0,0.99,USD,Games,4.87091,15524.0,Ironhide S.A.,310480.0,Games,Games
+936694037,84,Voice Recorder - Audio Record,936694037.0,5.99,USD,Business,4.70633,15834.0,LiveBird Technologies Private Limited,316680.0,Productivity,Productivity
+335047649,85,ScanBizCards,335047649.0,0.99,USD,Business,4.58056,13773.0,ScanBiz Mobile Solutions L.P.,275460.0,Productivity,Productivity
+777310222,86,GoodReader PDF Editor & Viewer,777310222.0,5.99,USD,Productivity,4.6557,13738.0,"Good.iWare, Inc.",274760.0,Productivity,Productivity
+1135811739,87,FAX from iPhone & iPad App,1135811739.0,3.99,USD,Business,4.59117,13673.0,BPMobile,273460.0,Productivity,Productivity
+1453990763,88,Screen Mirroring+ for Fire TV,1453990763.0,9.99,USD,Photo & Video,3.21804,14236.0,Kraus und Karnath GbR 2Kit Consulting,284720.0,Entertainment,Entertainment
+1062745479,89,HeartWatch: Heart Rate Tracker,1062745479.0,8.99,USD,Health & Fitness,4.6871,13465.0,Tantsissa,269300.0,Lifestyle,Lifestyle
+306967807,90,Card Shark Collection™,306967807.0,2.99,USD,Games,4.75924,13179.0,Easy 8 Software,263580.0,Games,Games
+564874986,91,Backflip Madness,564874986.0,0.99,USD,Games,4.46582,12741.0,Gamesoul Studio,254820.0,Games,Games
+417817520,92,Tiny Wings,417817520.0,2.99,USD,Games,4.84619,14265.0,Andreas Illiger,285300.0,Games,Games
+1078038667,93,GifJif - Custom Gif Creator,1078038667.0,0.99,USD,Entertainment,4.89248,12779.0,Max Shaw,255580.0,Entertainment,Entertainment
+904737816,94,Kingdom Rush Origins TD,904737816.0,0.99,USD,Games,4.87113,13162.0,Ironhide S.A.,263240.0,Games,Games
+618790117,95,Cute CUT Pro,618790117.0,9.99,USD,Photo & Video,4.42365,12371.0,波 余,247420.0,Entertainment,Entertainment
+284972998,96,SoundHound∞ - Music Discovery,284972998.0,6.99,USD,Music,4.86083,12194.0,"SoundHound, Inc.",243880.0,Entertainment,Entertainment
+1079607960,97,Oh She Glows,1079607960.0,2.99,USD,Food & Drink,4.86707,12262.0,Glo Bakery Corporation,245240.0,Lifestyle,Outside Good
+372283316,98,▻Sudoku +,372283316.0,4.99,USD,Games,4.84372,13354.0,"PeopleFun CG, LLC",267080.0,Games,Games
+1133544923,99,Hidden Folks,1133544923.0,4.99,USD,Games,4.87954,12253.0,Adriaan de Jongh,245060.0,Games,Games
+448162988,100,My Sketch - Pencil Sketches,448162988.0,3.99,USD,Photo & Video,4.77371,12223.0,Miinu Limited,244460.0,Entertainment,Entertainment
+443646748,101,Fitness Buddy+ Workout Trainer,443646748.0,3.99,USD,Health & Fitness,4.82132,11708.0,"Kodeon, Inc.",234160.0,Lifestyle,Lifestyle
+1040227414,102,Exploding Kittens®,1040227414.0,4.99,USD,Games,4.69102,11548.0,Marmalade Game Studio,230960.0,Games,Games
+330247123,103,"Sun Seeker - Tracker, Surveyor",330247123.0,11.99,USD,Navigation,4.83873,12297.0,ozPDA,245940.0,Travel,Travel
+1279565050,104,Graphing Calculator Plus,1279565050.0,5.99,USD,Education,4.63389,11841.0,Incpt.Mobis,236820.0,Education,Education
+514345557,105,Home Design 3D - GOLD EDITION,514345557.0,8.99,USD,Productivity,4.54685,11566.0,Anuman,231320.0,Productivity,Productivity
+352247139,106,Calorie Counter PRO MyNetDiary,352247139.0,3.99,USD,Health & Fitness,4.7699,12460.0,MyNetDiary Inc.,249200.0,Lifestyle,Lifestyle
+1023146677,107,Five Nights at Freddy's 4,1023146677.0,2.99,USD,Games,4.61592,11344.0,CLICKTEAM LLC USA,226880.0,Games,Games
+828392046,108,Teach Your Monster to Read,828392046.0,8.99,USD,Education,4.54494,22208.0,Teach Your Monster,444160.0,Education,Education
+941143328,109,Five Nights at Freddy's 2,941143328.0,2.99,USD,Games,4.63149,11343.0,CLICKTEAM LLC USA,226860.0,Games,Games
+640564761,110,Stop Motion Studio Pro,640564761.0,5.99,USD,Photo & Video,4.74113,12203.0,"CATEATER, LLC",244060.0,Entertainment,Entertainment
+563082328,111,Military Retirement,563082328.0,5.99,USD,Finance,4.84962,12169.0,LYNNFIELD LLC,243380.0,Finance,Outside Good
+363978811,112,Seconds Pro Interval Timer,363978811.0,7.99,USD,Health & Fitness,4.79488,11257.0,Runloop Ltd,225140.0,Lifestyle,Lifestyle
+1189781891,113,Five Nights at Freddy's: SL,1189781891.0,2.99,USD,Games,4.4336,10957.0,CLICKTEAM LLC USA,219140.0,Games,Games
+479662730,114,Grand Theft Auto III,479662730.0,4.99,USD,Games,4.57304,11179.0,Rockstar Games,223580.0,Games,Games
+1331393380,115,The House of Da Vinci 2,1331393380.0,4.99,USD,Games,4.82576,10870.0,Blue Brain Games,217400.0,Games,Games
+307219387,116,BrainWave: 37 Binaural Series™,307219387.0,5.99,USD,Health & Fitness,4.87296,10965.0,Banzai Labs,219300.0,Lifestyle,Lifestyle
+357421934,117,PeakFinder,357421934.0,4.99,USD,Travel,4.70966,11490.0,PeakFinder GmbH,229800.0,Travel,Travel
+1342309192,118,Reigns: Game of Thrones,1342309192.0,3.99,USD,Games,4.81924,10262.0,Devolver,205240.0,Games,Games
+1479608271,119,Arcadia - Watch Games,1479608271.0,1.99,USD,Games,4.82139,11321.0,Raffaele D'Amato,226420.0,Games,Games
+904278510,120,Hitman Sniper,904278510.0,1.99,USD,Games,4.76186,11464.0,Deca Live Operations GmbH,229280.0,Games,Games
+284980812,121,GoSkyWatch Planetarium,284980812.0,3.99,USD,Navigation,4.78153,10153.0,GoSoftWorks,203060.0,Travel,Travel
+1389752090,122,Dead Cells,1389752090.0,8.99,USD,Games,4.7941,11156.0,Playdigious,223120.0,Games,Games
+292628469,123,"Juxtaposer: cut, combine, edit",292628469.0,4.99,USD,Photo & Video,4.90871,10132.0,Pocket Pixels Inc.,202640.0,Entertainment,Entertainment
+1356167732,124,Escapists 2: Pocket Breakout,1356167732.0,6.99,USD,Games,4.71674,10058.0,Team17 Digital Limited,201160.0,Games,Games
+1441797808,125,Screen Mirroring + Chromecast,1441797808.0,9.99,USD,Utilities,3.86644,10662.0,Kraus und Karnath GbR 2Kit Consulting,213240.0,Productivity,Productivity
+634675138,126,Recipe Gallery,634675138.0,3.99,USD,Food & Drink,4.85694,9842.0,WHATSTICKER APPS SRL,196840.0,Lifestyle,Outside Good
+335029050,127,Catan Classic,335029050.0,4.99,USD,Games,3.75233,10187.0,USM,203740.0,Games,Games
+1148321705,128,Bully: Anniversary Edition,1148321705.0,0.0,USD,Games,4.74205,11448.0,Rockstar Games,228960.0,Games,Games
+1463795337,129,Screen Mirroring+ App,1463795337.0,9.99,USD,Photo & Video,2.8699,11038.0,Kraus und Karnath GbR 2Kit Consulting,220760.0,Entertainment,Entertainment
+932747118,130,Shadowrocket,932747118.0,2.99,USD,Utilities,4.46645,10689.0,Shadow Launch Technology Limited,213780.0,Productivity,Productivity
+443321291,131,CCW – Concealed Carry 50 State,443321291.0,1.99,USD,Reference,4.84737,9939.0,Workman Consulting LLC,198780.0,Education,Education
+868692227,132,Goat Simulator,868692227.0,6.99,USD,Games,4.45454,9304.0,Coffee Stain Publishing,186080.0,Games,Games
+894811756,133,PromptSmart Pro - Teleprompter,894811756.0,29.99,USD,Photo & Video,4.57402,9949.0,PromptSmart,198980.0,Entertainment,Entertainment
+741990930,134,Walkout Song DJ,741990930.0,6.99,USD,Music,4.79851,10472.0,Joseph Vidunas,209440.0,Entertainment,Entertainment
+864880531,135,Civilization Revolution 2,,,,,,,,,,
+561352659,136,Boondocking,561352659.0,0.99,USD,Travel,4.57109,9207.0,William Modesitt,184140.0,Travel,Travel
+1398182637,137,OneCast - Xbox Remote Play,1398182637.0,0.0,USD,Games,4.48174,9229.0,Bitwise Solutions Limited,184580.0,Games,Games
+298206806,138,iReal Pro,298206806.0,19.99,USD,Music,4.86552,9912.0,Technimo LLC,198240.0,Entertainment,Entertainment
+1297430468,139,Florence,1297430468.0,2.99,USD,Games,4.55377,8713.0,Annapurna Interactive,174260.0,Games,Games
+1179236591,140,Sleep Tracker ++,1179236591.0,1.99,USD,Health & Fitness,4.40548,8649.0,Vimo Labs Inc.,172980.0,Lifestyle,Lifestyle
+927098908,141,Pro Camera by Moment,927098908.0,8.99,USD,Photo & Video,4.5747,9102.0,Moment Inc.,182040.0,Entertainment,Entertainment
+466388978,142,My Contacts Backup Pro,466388978.0,1.99,USD,Productivity,4.71594,8706.0,GLOBILE BILISIM BILGISAYAR HIZMETLERI ILETISIM DANISMANLIK SANAYI TICARET LIMITED SIRKETI,174120.0,Productivity,Productivity
+549105915,143,True Skate,549105915.0,1.99,USD,Games,3.81947,8691.0,True Axis,173820.0,Games,Games
+1478611992,144,Farming Simulator 20,1478611992.0,5.99,USD,Games,4.4017,8723.0,GIANTS Software GmbH,174460.0,Games,Games
+1093924230,145,iAnnotate 4 — PDFs & more,1093924230.0,9.99,USD,Productivity,4.72976,8707.0,"Branchfire, Inc.",174140.0,Productivity,Productivity
+1508720931,146,Meditation by Soothing Pod,1508720931.0,14.99,USD,Health & Fitness,4.79506,8622.0,Miinu Limited,172440.0,Lifestyle,Lifestyle
+392538848,147,ToonCamera,392538848.0,4.99,USD,Photo & Video,4.76586,8508.0,Code Organa,170160.0,Entertainment,Entertainment
+482303584,148,PDG PROmote 2023-2025,482303584.0,34.99,USD,Education,4.81539,9420.0,ForceReadiness.com,188400.0,Education,Education
+1459520638,149,Wingspan: The Board Game,1459520638.0,9.99,USD,Games,4.85425,11506.0,Monster Couch,230120.0,Games,Games
+694647259,150,ProCamera. Professional Camera,694647259.0,0.0,USD,Photo & Video,4.73499,9992.0,Cocologics,199840.0,Entertainment,Entertainment
+483241160,151,TimePassages Pro,483241160.0,59.99,USD,Lifestyle,4.88733,8627.0,AstroGraph Software,172540.0,Lifestyle,Lifestyle
+593306620,152,Units Plus Converter,593306620.0,6.99,USD,Utilities,4.85432,8340.0,Alan Mrvica,166800.0,Productivity,Productivity
+1261834568,153,Shadow Fight 2 Special Edition,1261834568.0,4.99,USD,Games,4.71612,8796.0,Nekki Limited,175920.0,Games,Games
+453571750,154,Knots 3D,453571750.0,5.99,USD,Reference,4.89924,10599.0,Nynix,211980.0,Education,Education
+1610947489,155,Poppy Playtime Chapter 1,1610947489.0,2.99,USD,Games,4.44292,9410.0,"Mob Entertainment, Inc",188200.0,Games,Games
+401533966,156,eWeather HD - Weather & Alerts,401533966.0,3.99,USD,Weather,4.67874,8364.0,Elecont LLC,167280.0,Weather,Weather
+410148139,157,NOAA Weather Radio,410148139.0,4.99,USD,Weather,4.24031,9121.0,Christopher Coudriet,182420.0,Weather,Weather
+335709058,158,Stylebook,335709058.0,4.99,USD,Lifestyle,4.66925,8263.0,"left brain / right brain, LLC",165260.0,Lifestyle,Lifestyle
+463565130,159,⋆Solitaire+,463565130.0,11.99,USD,Games,4.71928,7805.0,PlayStudios,156100.0,Games,Games
+430234732,160,Site Audit Pro,430234732.0,12.9,USD,Productivity,4.83169,9138.0,Veam Studios Ltd,182760.0,Productivity,Productivity
+1273547462,161,Whole Eats,1273547462.0,2.99,USD,Health & Fitness,4.40372,7738.0,Finnsane Productions LLC,154760.0,Lifestyle,Lifestyle
+1114127463,162,Reigns,1114127463.0,2.99,USD,Games,4.75851,7611.0,Devolver,152220.0,Games,Games
+557405467,163,Network Analyzer Pro,557405467.0,3.99,USD,Utilities,4.77958,8375.0,Techet,167500.0,Productivity,Productivity
+388857410,164,Blackjack & Card Counting Pro,388857410.0,4.99,USD,Games,4.83483,9003.0,Dealer Bust Time LLC,180060.0,Games,Games
+529092671,165,WhoSampled,529092671.0,3.99,USD,Music,4.85716,8002.0,WhoSampled,160040.0,Entertainment,Entertainment
+478293637,166,Anytune Pro+,478293637.0,14.99,USD,Music,4.87723,7804.0,Anytune Inc.,156080.0,Entertainment,Entertainment
+973482987,167,Five Nights at Freddy's 3,973482987.0,2.99,USD,Games,4.54054,7387.0,CLICKTEAM LLC USA,147740.0,Games,Games
+1111420122,168,Hear My Baby Heart beat App,1111420122.0,7.99,USD,Medical,3.8693,7284.0,Fat Cigar Productions Ltd,145680.0,Health,Health
+1135992985,169,TV Cast Pro for Chromecast,1135992985.0,9.99,USD,Photo & Video,4.28995,7722.0,Kraus und Karnath GbR 2Kit Consulting,154440.0,Entertainment,Entertainment
+1125003546,170,TV Cast Pro for Fire TV,1125003546.0,9.99,USD,Photo & Video,3.7814,7429.0,Kraus und Karnath GbR 2Kit Consulting,148580.0,Entertainment,Entertainment
+404990064,171,SkyView®,404990064.0,2.99,USD,Education,4.58914,7550.0,Terminal Eleven LLC,151000.0,Education,Education
+1361473095,172,MuseDash,1361473095.0,2.99,USD,Games,4.87486,7943.0,"HasuHasu Co.,Ltd.",158860.0,Games,Games
+634158738,173,e-Sword LT: Bible Study to Go,634158738.0,3.99,USD,Reference,4.83805,6959.0,Rick Meyers,139180.0,Education,Education
+1044950341,174,Streaks Workout,1044950341.0,4.99,USD,Health & Fitness,4.76055,6899.0,Crunchy Bagel,137980.0,Lifestyle,Lifestyle
+510461370,175,Bike Race Pro: Motor Racing,510461370.0,0.99,USD,Games,4.8227,6926.0,Wildlife Studios,138520.0,Games,Games
+1115022026,176,The Secret To Money,1115022026.0,4.99,USD,Lifestyle,4.83445,6699.0,Creste LLC,133980.0,Lifestyle,Lifestyle
+1353471030,177,Terraforming Mars,1353471030.0,8.99,USD,Games,4.50601,7071.0,Twin Sails Interactive,141420.0,Games,Games
+494333145,178,Accounts 2 Checkbook,494333145.0,3.99,USD,Finance,4.55495,6633.0,SVT Software,132660.0,Finance,Outside Good
+563960217,179,Blackbird!,563960217.0,1.99,USD,Games,4.74189,6722.0,R. Don Wilson,134440.0,Games,Games
+727544019,180,Street Kart #1 Go Kart Game,727544019.0,0.0,USD,Games,4.69168,7690.0,Fat Cigar Productions Ltd,153800.0,Games,Games
+1599230728,181,Solar Snap,1599230728.0,1.99,USD,Photo & Video,4.67767,6385.0,Rise Up Games,127700.0,Entertainment,Entertainment
+427341961,182,Birthday Reminder Pro+,427341961.0,0.99,USD,Social Networking,4.7647,6328.0,FunPokes Inc.,126560.0,Social,Outside Good
+301154120,183,Cribbage Premium,301154120.0,0.0,USD,Games,4.6891,7549.0,WildCard Classics Inc,150980.0,Games,Games
+285994151,184,:) Sudoku +,,,,,,,,,,
+1492218078,185,CDOT Colorado Road Conditions,1492218078.0,0.0,USD,Navigation,4.56121,7630.0,"LW Brands, LLC",152600.0,Travel,Travel
+608540795,186,Tunable – Tuner & Metronome,608540795.0,7.99,USD,Music,4.81616,6566.0,AffinityBlue,131320.0,Entertainment,Entertainment
+304871603,187,Color Splash,304871603.0,1.99,USD,Photo & Video,4.86392,6386.0,Pocket Pixels Inc.,127720.0,Entertainment,Entertainment
+1319618742,188,Getting Over It,1319618742.0,4.99,USD,Games,4.30743,6564.0,Bennett Foddy,131280.0,Games,Games
+1187265767,189,Monument Valley 2,1187265767.0,3.99,USD,Games,4.57475,9150.0,ustwo games,183000.0,Games,Games
+1199551273,190,b-hyve pro,1199551273.0,9.99,USD,Lifestyle,4.6965,7318.0,Hydro Rain Inc.,146360.0,Lifestyle,Lifestyle
+1498550832,191,ASCCP Management Guidelines,1498550832.0,14.99,USD,Medical,4.75936,7601.0,American Society for Colposcopy and Cervical Pathology Inc,152020.0,Health,Health
+679454835,192,Rarevision VHS - Retro 80s Cam,679454835.0,5.99,USD,Photo & Video,4.66972,6658.0,Rarevision,133160.0,Entertainment,Entertainment
+1622869542,193,Kingdom Rush 5: Alliance TD,1622869542.0,6.99,USD,Games,4.84493,11898.0,Ironhide S.A.,237960.0,Games,Games
+351986992,194,StarMap 3D+ Plus,351986992.0,2.99,USD,Education,4.83634,6587.0,Sanville Software,131740.0,Education,Education
+497880658,195,J23 - Release Dates & Restocks,497880658.0,1.99,USD,Sports,4.76325,8093.0,"Plan23, LLC",161860.0,Sports,Outside Good
+1453875289,196,Hyper Light Drifter,1453875289.0,2.99,USD,Games,4.87191,6511.0,Abylight S.L.,130220.0,Games,Games
+1502228408,197,75 Hard,1502228408.0,0.0,USD,Health & Fitness,4.58649,6307.0,"44SEVEN MEDIA, LLC",126140.0,Lifestyle,Lifestyle
+673120263,198,Step Out! Smart Alarm Clock,673120263.0,1.99,USD,Lifestyle,4.05176,6105.0,WeHelp,122100.0,Lifestyle,Lifestyle
+406150030,199,Word Lookup Pro,406150030.0,4.99,USD,Games,4.79675,6283.0,Peter Hunt,125660.0,Games,Games
+1464645812,200,Company of Heroes,1464645812.0,14.99,USD,Games,4.7618,6348.0,Feral Interactive Ltd,126960.0,Games,Games
+687421118,201,Buddhify: Guided Meditation,687421118.0,4.99,USD,Health & Fitness,4.75193,6099.0,CELESTIAN GOLDEN APPS,121980.0,Lifestyle,Lifestyle
+608515289,202,Weather Mate Pro - Forecast,608515289.0,7.99,USD,Weather,4.66212,6008.0,DylogicApps Pvt Ltd,120160.0,Weather,Weather
+830544402,203,Leo's Fortune,830544402.0,4.99,USD,Games,4.7434,6138.0,1337 & Senri LLC,122760.0,Games,Games
+435352951,204,PROmote - Army Study Guide,435352951.0,5.99,USD,Education,4.75432,6016.0,ForceReadiness.com,120320.0,Education,Education
+1642601792,205,The Past Within,1642601792.0,2.99,USD,Games,4.87033,6725.0,Rusty Lake,134500.0,Games,Games
+1456547302,206,A Dance of Fire and Ice,1456547302.0,1.99,USD,Games,4.82298,7163.0,7th Beat Games S.A.C.,143260.0,Games,Games
+611436052,207,Star Wars™: KOTOR,611436052.0,9.99,USD,Games,4.26835,5996.0,"Aspyr Media, Inc.",119920.0,Games,Games
+1242467844,208,TONALY: Write & Practice Songs,1242467844.0,9.99,USD,Music,4.77518,6116.0,Christian Hengst Daniels,122320.0,Entertainment,Entertainment
+299466740,209,Backgammon Premium,299466740.0,2.99,USD,Games,4.56361,6178.0,WildCard Classics Inc,123560.0,Games,Games
+458535809,210,Calculator ∞,458535809.0,5.99,USD,Education,4.69506,6070.0,Incpt.Mobis,121400.0,Education,Education
+1126056361,211,TV Cast Pro for Roku,1126056361.0,9.99,USD,Photo & Video,4.28815,6396.0,Kraus und Karnath GbR 2Kit Consulting,127920.0,Entertainment,Entertainment
+728293409,212,Monument Valley,728293409.0,3.99,USD,Games,4.73656,9224.0,ustwo games,184480.0,Games,Games
+487024834,213,⋆Spider Solitaire+,487024834.0,11.99,USD,Games,4.80632,5695.0,Brainium Studios LLC,113900.0,Games,Games
+284942719,214,Universalis,284942719.0,9.99,USD,Lifestyle,4.9204,7500.0,Universalis Publishing,150000.0,Lifestyle,Lifestyle
+1254864644,215,Nexomon,1254864644.0,0.99,USD,Games,4.74722,5661.0,"LIME TURTLE, INC.",113220.0,Games,Games
+1346580540,216,Motorsport Manager Mobile 3,1346580540.0,1.99,USD,Games,4.88657,5660.0,Playsport Games Ltd,113200.0,Games,Games
+1465749734,217,THE GAME OF LIFE: Road Trip,1465749734.0,1.99,USD,Games,4.70988,5770.0,Marmalade Game Studio,115400.0,Games,Games
+499470113,218,FE File Explorer Pro,499470113.0,4.99,USD,Utilities,4.72072,5722.0,"Skyjos Co., Ltd.",114440.0,Productivity,Productivity
+881270303,219,XCOM®: Enemy Within,881270303.0,4.99,USD,Games,4.34258,5552.0,2K,111040.0,Games,Games
+585259203,220,Super Stickman Golf 2,585259203.0,0.99,USD,Games,4.60187,5458.0,Noodlecake,109160.0,Games,Games
+891194610,221,Earn to Die 2,891194610.0,0.29,USD,Games,4.65679,5536.0,Not Doppler,110720.0,Games,Games
+852197796,222,Red Ball 4,852197796.0,4.99,USD,Games,4.75659,6680.0,FDG Entertainment GmbH & Co.KG,133600.0,Games,Games
+1499849161,223,Ultimate Custom Night,1499849161.0,2.99,USD,Games,4.62277,5734.0,CLICKTEAM LLC USA,114680.0,Games,Games
+306628397,224,Phrase Party! — Guess Phrases,306628397.0,1.99,USD,Games,4.71142,5676.0,logan sease,113520.0,Games,Games
+1568551599,225,1000 Hours Outside,1568551599.0,0.0,USD,Lifestyle,4.79843,6484.0,Team Yurich LLC,129680.0,Lifestyle,Lifestyle
+494472589,226,eZy Watermark Photos Pro,494472589.0,5.99,USD,Photo & Video,4.79172,5459.0,Whizpool,109180.0,Entertainment,Entertainment
+302981385,227,Spite & Malice,302981385.0,2.99,USD,Games,4.74558,5774.0,WildCard Classics Inc,115480.0,Games,Games
+1477203766,228,Total War: MEDIEVAL II,1477203766.0,14.99,USD,Games,4.8709,6429.0,Feral Interactive Ltd,128580.0,Games,Games
+315322445,229,Lexulous Word Game,315322445.0,1.99,USD,Games,4.7104,5618.0,RJS Tech Solutions LLP,112360.0,Games,Games
+932128168,230,Stick Nodes Pro - Animator,932128168.0,3.99,USD,Entertainment,4.79746,5846.0,"ForTheLoss Games, Inc",116920.0,Entertainment,Entertainment
+918997182,231,EvoCreo™: Pocket Monster Like,918997182.0,0.0,USD,Games,4.68688,5640.0,Ilmfinity Studios LLC,112800.0,Games,Games
+884153085,232,"Remote, Mouse & Keyboard Pro",884153085.0,20.0,USD,Utilities,4.74901,5311.0,Remote Sunrise LTD,106220.0,Productivity,Productivity
+492076105,233,iCalendar,492076105.0,2.99,USD,Productivity,4.72511,5264.0,"Symfonies, Inc.",105280.0,Productivity,Productivity
+938922963,234,pwSafe 2 - Password Safe,938922963.0,2.99,USD,Utilities,4.74803,5104.0,Huvisoft B.V.,102080.0,Productivity,Productivity
+317703490,235,Flight Update Pro,317703490.0,0.99,USD,Travel,4.54103,5203.0,"Silverware Software, LLC",104060.0,Travel,Travel
+347400507,236,Pocket Yoga,347400507.0,2.99,USD,Health & Fitness,4.76928,5123.0,"Rainfrog, LLC",102460.0,Lifestyle,Lifestyle
+1252035454,237,SIMULACRA,1252035454.0,4.99,USD,Games,4.86961,5123.0,Kaigan Games OÜ,102460.0,Games,Games
+966245474,238,Through the Ages,966245474.0,9.99,USD,Games,4.88335,5092.0,CGE Digital s.r.o.,101840.0,Games,Games
+1234214894,239,Ravit - Ravelry on the hop,1234214894.0,4.99,USD,Lifestyle,4.82351,5071.0,Enhancient,101420.0,Lifestyle,Lifestyle
+1557908115,240,Tik Watch,1557908115.0,4.99,USD,Social Networking,4.36298,5251.0,BEST SOCIAL APPS DEVELOPMENT LTD,105020.0,Social,Outside Good
+465180749,241,Convert Any Unit,465180749.0,9.99,USD,Travel,4.82313,5145.0,Cider Software LLC,102900.0,Travel,Travel
+1039141908,242,LEGO® Ninjago™,1039141908.0,4.99,USD,Games,3.28095,5186.0,Warner Bros.,103720.0,Games,Games
+1330451888,243,Pocket City,1330451888.0,2.99,USD,Games,4.67089,5038.0,Codebrew Games Inc.,100760.0,Games,Games
+1175031995,244,My Lightning Tracker Pro,1175031995.0,4.99,USD,Weather,4.81003,5543.0,JRustonApps B.V.,110860.0,Weather,Weather
+340779800,245,The Christmas List,340779800.0,2.99,USD,Shopping,4.81834,5026.0,Erik Eggleston,100520.0,E-commerce,Outside Good
+1349292121,246,supertype,1349292121.0,1.99,USD,Games,4.80866,5080.0,Philipp Stollenmayer,101600.0,Games,Games
+287316432,247,AyeTides,287316432.0,7.99,USD,Navigation,4.82235,4869.0,Hahn Software LLC,97380.0,Travel,Travel
+1469235524,248,The House of Da Vinci 3,1469235524.0,5.99,USD,Games,4.83754,5429.0,Blue Brain Games,108580.0,Games,Games
+1020486527,249,My Hurricane Tracker Pro,1020486527.0,3.99,USD,Weather,4.78439,5431.0,JRustonApps B.V.,108620.0,Weather,Weather
+1454836235,250,Military Money: Pay & Pension,1454836235.0,0.0,USD,Finance,4.80062,5442.0,"Deeline Productions, LLC",108840.0,Finance,Outside Good
+578451869,251,Road to Hana Maui GyPSy Guide,578451869.0,14.99,USD,Travel,4.87148,4941.0,GyPSy Guide LLC,98820.0,Travel,Travel
+1484024784,252,Meridian 157: Chapter 1,1484024784.0,1.99,USD,Games,4.72515,4999.0,NovaSoft Interactive Ltd,99980.0,Games,Games
+1065360416,253,BimmerLink for BMW and MINI,1065360416.0,39.99,USD,Productivity,4.6792,6434.0,SG Software GmbH & Co. KG,128680.0,Productivity,Productivity
+1437669537,254,Bendy and the Ink Machine,1437669537.0,4.99,USD,Games,4.48956,4984.0,Joey Drew Studios Inc.,99680.0,Games,Games
+1242115154,255,NOAA Marine Forecast & Weather,1242115154.0,1.99,USD,Weather,4.64856,4860.0,"LW Brands, LLC",97200.0,Weather,Weather
+401457165,256,System Status Pro: hw monitor,401457165.0,3.99,USD,Utilities,4.7603,5144.0,Techet,102880.0,Productivity,Productivity
+975770717,257,My Earthquake Alerts Pro,975770717.0,2.99,USD,Weather,4.77501,5258.0,JRustonApps B.V.,105160.0,Weather,Weather
+550946484,258,Word Chums,550946484.0,4.99,USD,Games,4.88086,4885.0,"PeopleFun, Inc.",97700.0,Games,Games
+371817955,259,Sporty's E6B Flight Computer,371817955.0,9.99,USD,Navigation,4.90048,5055.0,Sporty's Pilot Shop,101100.0,Travel,Travel
+1626202774,260,American Farming,1626202774.0,7.99,USD,Games,4.48238,6188.0,SquadBuilt Inc,123760.0,Games,Games
+552517300,261,Spider ▻ Solitaire +,552517300.0,4.99,USD,Games,4.84486,4944.0,"PeopleFun CG, LLC",98880.0,Games,Games
+325307477,262,"AudioTools - dB, Sound & Audio",325307477.0,19.99,USD,Music,4.78282,4830.0,Andrew Smith,96600.0,Entertainment,Entertainment
+448474423,263,Couch to 5K® - Run training,448474423.0,4.99,USD,Health & Fitness,4.61784,4642.0,"Active Network, LLC",92840.0,Lifestyle,Lifestyle
+518167210,264,▻ Solitaire +,518167210.0,4.99,USD,Games,4.79005,4806.0,"PeopleFun CG, LLC",96120.0,Games,Games
+380450781,265,Remote Mouse Pro,380450781.0,14.99,USD,Utilities,4.6571,4564.0,耀 阮,91280.0,Productivity,Productivity
+1146997581,266,Adult Emojis Icons Pro - Naughty Emoji Faces Stickers Keyboard Emoticons for Texting,1146997581.0,3.99,USD,Shopping,3.79047,4472.0,丽银 黄,89440.0,E-commerce,Outside Good
+1133867070,267,Emoticons Keyboard Pro - Adult Emoji for Texting,1133867070.0,3.99,USD,Shopping,3.83821,4407.0,建钧 黎,88140.0,E-commerce,Outside Good
+971304016,268,Lara Croft GO,971304016.0,4.99,USD,Games,4.77406,4488.0,Deca Live Operations GmbH,89760.0,Games,Games
+382011064,269,Friendly Plus Social Browser,382011064.0,0.99,USD,Social Networking,4.29467,4371.0,"Friendly, Inc.",87420.0,Social,Outside Good
+1455781522,270,FNaF 6: Pizzeria Simulator,1455781522.0,2.99,USD,Games,4.5893,4485.0,CLICKTEAM LLC USA,89700.0,Games,Games
+295798315,271,Documents,295798315.0,4.99,USD,Business,4.54476,4424.0,Savy Soda Pty Ltd,88480.0,Productivity,Productivity
+6463616555,272,Ticket to Ride: The Board Game,6463616555.0,4.99,USD,Games,4.51984,8139.0,Marmalade Game Studio,162780.0,Games,Games
+1240380955,273,Life Application Study Bible,1240380955.0,19.99,USD,Reference,4.94654,4845.0,"Tecarta, Inc.",96900.0,Education,Education
+576443892,274,Logo Creator & Maker,576443892.0,0.99,USD,Business,4.77349,4375.0,Logo Maker LLC,87500.0,Productivity,Productivity
+982354972,275,Lifeline...,982354972.0,2.99,USD,Games,4.65045,4377.0,"3 Minute Games, Inc.",87540.0,Games,Games
+321817464,276,PinPal,321817464.0,8.99,USD,Sports,4.90336,4553.0,Jeff Stuart,91060.0,Sports,Outside Good
+304731501,277,Tempo - Metronome with Setlist,304731501.0,2.99,USD,Music,4.80285,4499.0,Frozen Ape Pte. Ltd.,89980.0,Entertainment,Entertainment
+1126058329,278,TV Cast Pro for LG webOS,1126058329.0,9.99,USD,Photo & Video,3.25928,4605.0,Kraus und Karnath GbR 2Kit Consulting,92100.0,Entertainment,Entertainment
+688166777,279,Extreme Hand and Foot,688166777.0,3.99,USD,Games,4.64661,4089.0,James Swiney,81780.0,Games,Games
+283436103,280,Solitaire City (Ad Free),283436103.0,4.99,USD,Games,4.58859,4205.0,Digital Smoke LLC,84100.0,Games,Games
+659353189,281,IntroMate - Intro Maker for YT,659353189.0,3.99,USD,Photo & Video,4.83853,4106.0,Ralph Hubner,82120.0,Entertainment,Entertainment
+495583407,282,Jigsaw Puzzle Pro,495583407.0,9.99,USD,Games,4.37298,4019.0,"Critical Hit Software, LLC",80380.0,Games,Games
+311395924,283,Chess Premium,311395924.0,1.99,USD,Games,4.67109,4372.0,Optime Software LLC,87440.0,Games,Games
+376374689,284,Doodle God™,376374689.0,0.99,USD,Games,4.60224,4010.0,JoyBits Ltd.,80200.0,Games,Games
+1311353234,285,Bridge Constructor Portal,1311353234.0,1.99,USD,Games,4.77493,4021.0,Headup GmbH,80420.0,Games,Games
+1132542642,286,Eric Carle’s Brown Bear Animal Parade,1132542642.0,3.99,USD,Games,4.47727,4025.0,StoryToys Limited,80500.0,Games,Games
+615380696,287,Toolbox™,615380696.0,1.99,USD,Utilities,4.6802,4162.0,Tue Nguyen Minh,83240.0,Productivity,Productivity
+1326943979,288,ABA Wizard,1326943979.0,14.99,USD,Education,4.80891,3862.0,"Test Prep Technologies, LLC",77240.0,Education,Education
+480102733,289,Awesome Calendar,480102733.0,9.99,USD,Productivity,4.63507,3861.0,YunaSoft Inc.,77220.0,Productivity,Productivity
+1200952700,290,Road Trip Guide by Fotospot,1200952700.0,3.99,USD,Travel,4.78483,3969.0,I Heart Travel Inc.,79380.0,Travel,Travel
+1439886655,291,Cultist Simulator,1439886655.0,6.99,USD,Games,4.81213,4072.0,Playdigious,81440.0,Games,Games
+941380906,292,Attack the Light,,,,,,,,,,
+1069549814,293,The Binding of Isaac: Rebirth,1069549814.0,14.99,USD,Games,4.50337,4001.0,"Nicalis, Inc.",80020.0,Games,Games
+1455659335,294,Dunder Inc.,1455659335.0,0.99,USD,Games,4.73979,3843.0,Nigelware,76860.0,Games,Games
+1567658979,295,SkySafari 7 Pro,1567658979.0,24.99,USD,Reference,4.68574,4821.0,Simulation Curriculum Corp.,96420.0,Education,Education
+1298544927,296,My Child Lebensborn,1298544927.0,2.99,USD,Games,4.81232,4076.0,Sarepta Studio AS,81520.0,Games,Games
+570306657,297,LEGO Batman: DC Super Heroes,570306657.0,4.99,USD,Games,4.02123,3863.0,Warner Bros.,77260.0,Games,Games
+1035689743,298,BusyCal: Calendar & Tasks,1035689743.0,9.99,USD,Productivity,4.68816,4140.0,Busy Apps FZE,82800.0,Productivity,Productivity
+1522926196,299,Messiahs,1522926196.0,2.99,USD,Games,4.58432,3700.0,Fatih Beceren,74000.0,Games,Games
+654806302,300,USFS & BLM Campgrounds,654806302.0,0.99,USD,Travel,4.53573,4043.0,Kyle Modesitt,80860.0,Travel,Travel
+294631159,301,WeatherPro,294631159.0,0.99,USD,Weather,4.67706,3753.0,DTN Germany GmbH.,75060.0,Weather,Weather
+363360636,302,Ship Finder,363360636.0,4.99,USD,Navigation,4.24056,3787.0,pinkfroot limited,75740.0,Travel,Travel
+1542899856,303,Scanner Lens,1542899856.0,1.99,USD,Productivity,4.81517,3625.0,Atlasv Global Pte. Ltd.,72500.0,Productivity,Productivity
+1323070827,304,Teen Titans Go! Figure,,,,,,,,,,
+1453838527,305,Age of History II,1453838527.0,4.99,USD,Games,4.15001,3853.0,Lukasz Jakowski Games,77060.0,Games,Games
+1179462965,306,Farming USA 2,1179462965.0,3.99,USD,Games,4.30553,3754.0,Bowen Games LLC,75080.0,Games,Games
+554937499,307,Earn to Die,554937499.0,0.99,USD,Games,4.77879,3639.0,Not Doppler,72780.0,Games,Games
+1502818559,308,ACNH Travel Guide,1502818559.0,3.99,USD,Reference,4.90907,3750.0,Jeffrey Kuiken,75000.0,Education,Education
+1420774597,309,Nautical Charts & Maps,1420774597.0,8.99,USD,Navigation,4.62736,3706.0,"LW Brands, LLC",74120.0,Travel,Travel
+1073698593,310,LEGO® Jurassic World™,1073698593.0,4.99,USD,Games,4.25871,3788.0,Warner Bros.,75760.0,Games,Games
+575154654,311,Pou,575154654.0,1.99,USD,Games,4.35534,3754.0,Zakeh Limited,75080.0,Games,Games
+484090401,312,Akinator VIP,484090401.0,3.99,USD,Entertainment,4.35048,3712.0,Elokence,74240.0,Entertainment,Entertainment
+937976391,313,Heads Up! Charades for Kids,937976391.0,4.99,USD,Games,4.69855,3732.0,Warner Bros.,74640.0,Games,Games
+1371965583,314,The Gardens Between,1371965583.0,4.99,USD,Games,4.76614,3622.0,THE VOXEL AGENTS PTY. LTD.,72440.0,Games,Games
+744882019,315,GraphNCalc83,744882019.0,12.99,USD,Education,4.87633,3752.0,Ernest Brock,75040.0,Education,Education
+569371565,316,Countdown Star (Ad-Free),569371565.0,0.99,USD,Entertainment,4.74549,3544.0,Joseph Merrill,70880.0,Entertainment,Entertainment
+737006024,317,LEGO® Marvel Super Heroes,737006024.0,4.99,USD,Games,3.41143,3534.0,Warner Bros.,70680.0,Games,Games
+533299240,318,Glucose Buddy+ for Diabetes,533299240.0,1.99,USD,Medical,4.8159,3395.0,Azumio Inc.,67900.0,Health,Health
+645384141,319,Cachly - Geocaching,645384141.0,4.99,USD,Navigation,4.76682,3521.0,Zed Said Studio LLC,70420.0,Travel,Travel
+293656711,320,Perfect OB Wheel,293656711.0,1.99,USD,Medical,4.91817,3446.0,Evan Schoenberg,68920.0,Health,Health
+1665706687,321,Underground Blossom,1665706687.0,2.99,USD,Games,4.9238,3990.0,Rusty Lake,79800.0,Games,Games
+1005658093,322,The Escapists: Prison Escape,1005658093.0,4.99,USD,Games,4.41308,3302.0,Team17 Digital Limited,66040.0,Games,Games
+405835358,323,MilGPS,405835358.0,12.99,USD,Navigation,4.84007,4821.0,Cascode Labs Pty Ltd,96420.0,Travel,Travel
+1504150811,324,Ghost SLS,1504150811.0,0.99,USD,Entertainment,4.42643,3276.0,"OurBigAdventure, LLC",65520.0,Entertainment,Entertainment
+926177061,325,TinType by Hipstamatic,926177061.0,0.99,USD,Photo & Video,4.80494,3404.0,"Hipstamatic, LLC",68080.0,Entertainment,Entertainment
+1600087840,326,Spirit Talker Communicator ITC,1600087840.0,4.99,USD,Entertainment,4.58854,4331.0,Bello Studios LLC,86620.0,Entertainment,Entertainment
+573192227,327,CloudBeats: Cloud Music Player,573192227.0,9.99,USD,Music,4.69803,3358.0,Roman Burda,67160.0,Entertainment,Entertainment
+1533979882,328,Northgard,1533979882.0,5.99,USD,Games,4.60485,3424.0,Playdigious,68480.0,Games,Games
+1450635907,329,Zombie Night Terror,1450635907.0,6.99,USD,Games,4.77201,3316.0,Plug In Digital,66320.0,Games,Games
+6450058135,330,Unpacking,6450058135.0,9.99,USD,Games,4.80056,5235.0,Humble Bundle,104700.0,Games,Games
+335445693,331,Backgammon Pro,335445693.0,1.99,USD,Games,4.54368,3285.0,Optime Software LLC,65700.0,Games,Games
+1032743715,332,Teeny Titans - Teen Titans Go!,,,,,,,,,,
+980016643,333,Word Master - Pro,980016643.0,4.99,USD,Games,4.84253,3639.0,Luis Gualandi,72780.0,Games,Games
+6446508218,334,Fantasy Football Draft Kit '24,,,,,,,,,,
+320300350,335,Virtual Families,320300350.0,1.99,USD,Games,4.25178,3086.0,"LDW Software, LLC",61720.0,Games,Games
+1012298403,336,Don't Starve: Pocket Edition,1012298403.0,4.99,USD,Games,4.49906,3196.0,Klei,63920.0,Games,Games
+721000562,337,Tide Graph Pro,721000562.0,5.99,USD,Navigation,4.84588,3361.0,Brainware LLC,67220.0,Travel,Travel
+365876767,338,Spite & Malice HD,365876767.0,4.99,USD,Games,4.7328,3256.0,WildCard Classics Inc,65120.0,Games,Games
+1088672024,339,Fitmeter Bike - GPS Cycling,1088672024.0,5.99,USD,Health & Fitness,4.79429,3364.0,Volker Schueppel,67280.0,Lifestyle,Lifestyle
+1184204602,340,ProMovie Recorder +,1184204602.0,2.99,USD,Photo & Video,4.72183,2973.0,Panda Apps Limited,59460.0,Entertainment,Entertainment
+779157948,341,Threes!,779157948.0,5.99,USD,Games,4.01403,2992.0,Sirvo LLC,59840.0,Games,Games
+435913585,342,Superimpose,435913585.0,0.0,USD,Photo & Video,4.51272,3066.0,Pankaj Goswami,61320.0,Entertainment,Entertainment
+1113736426,343,RollerCoaster Tycoon® Classic,1113736426.0,5.99,USD,Games,4.25206,3158.0,Atari,63160.0,Games,Games
+1309035984,344,Passpartout: Starving Artist,1309035984.0,4.99,USD,Games,4.71101,2969.0,Flamebait AB,59380.0,Games,Games
+1182456409,345,Alto's Odyssey,1182456409.0,4.99,USD,Games,4.43204,2928.0,Snowman,58560.0,Games,Games
+377989827,346,Diptic,377989827.0,2.99,USD,Photo & Video,4.52776,2954.0,Peak Systems,59080.0,Entertainment,Entertainment
+953959208,347,(How to) Pronounce PRO,953959208.0,1.99,USD,Education,4.83131,3207.0,Dawid Pietrala,64140.0,Education,Education
+1438091392,348,Human: Fall Flat,1438091392.0,4.99,USD,Games,4.15191,3015.0,"505 Games (US), Inc.",60300.0,Games,Games
+1458419589,349,Hondata Complete,1458419589.0,12.99,USD,Utilities,4.72785,3285.0,Alphabit Software Inc.,65700.0,Productivity,Productivity
+1645791169,350,Pocket GM 3: Football Sim,1645791169.0,2.99,USD,Games,4.90203,3603.0,Jonathan Howell,72060.0,Games,Games
+1465720386,351,MudRunner Mobile,1465720386.0,5.99,USD,Games,4.63209,2960.0,Focus Entertainment,59200.0,Games,Games
+1126386264,352,AdGuard Pro — adblock&privacy,1126386264.0,9.99,USD,Utilities,4.38934,2851.0,Adguard Software Limited,57020.0,Productivity,Productivity
+914386930,353,DSLR Camera,914386930.0,0.99,USD,Photo & Video,4.66854,2854.0,Fulvio Scichilone,57080.0,Entertainment,Entertainment
+878642174,354,TV Cast Pro for Samsung TV,878642174.0,9.99,USD,Photo & Video,3.81102,3032.0,Kraus und Karnath GbR 2Kit Consulting,60640.0,Entertainment,Entertainment
+362389803,355,Progressive Alarm Clock,362389803.0,0.99,USD,Health & Fitness,4.58127,2928.0,Spotlight Six Software LLC,58560.0,Lifestyle,Lifestyle
+1304177471,356,Superimpose X,1304177471.0,4.99,USD,Photo & Video,4.70441,2923.0,Pankaj Goswami,58460.0,Entertainment,Entertainment
+539418490,357,TX Real Estate Exam Flashcards,539418490.0,2.99,USD,Education,4.78129,3100.0,Champions School of Real Estate,62000.0,Education,Education
+497864213,358,Binoculars,497864213.0,4.99,USD,Utilities,4.49983,2865.0,i4software,57300.0,Productivity,Productivity
+646489967,359,Castle of Illusion,646489967.0,4.99,USD,Games,4.03498,2887.0,Disney,57740.0,Games,Games
+323061162,360,Sleep Machine,323061162.0,3.99,USD,Health & Fitness,4.73217,2875.0,SleepSoft LLC,57500.0,Lifestyle,Lifestyle
+1437096541,361,Rush Rally 3,1437096541.0,4.99,USD,Games,4.78247,2864.0,Brownmonster Limited,57280.0,Games,Games
+1010311475,362,QuickBend: Conduit Bending,1010311475.0,6.99,USD,Productivity,4.8193,3348.0,Bret Hardman,66960.0,Productivity,Productivity
+1440944902,363,Topographic Maps & Trails,1440944902.0,4.99,USD,Navigation,4.57386,2762.0,"LW Brands, LLC",55240.0,Travel,Travel
+380090605,364,Let's create! Pottery HD,380090605.0,4.99,USD,Entertainment,4.56468,2729.0,Infinite Dreams Inc.,54580.0,Entertainment,Entertainment
+1292099839,365,Donut County,1292099839.0,4.99,USD,Games,3.97504,2724.0,Annapurna Interactive,54480.0,Games,Games
+290231956,366,iPeriod Period Tracker +,290231956.0,1.99,USD,Health & Fitness,4.15284,2689.0,"Winkpass Creations, Inc.",53780.0,Lifestyle,Lifestyle
+363949050,367,Backgammon HD,363949050.0,4.99,USD,Games,4.56776,2841.0,WildCard Classics Inc,56820.0,Games,Games
+824305459,368,Papa's Freezeria To Go!,824305459.0,0.99,USD,Games,4.23571,2974.0,Flipline Studios,59480.0,Games,Games
+1072395467,369,60 Seconds! Atomic Adventure,1072395467.0,3.99,USD,Games,4.25938,2799.0,Robot Gentleman sp. z o.o.,55980.0,Games,Games
+503092422,370,Ski Safari,503092422.0,0.99,USD,Games,4.6601,2689.0,Defiant Development,53780.0,Games,Games
+823869162,371,SimplePlanes,823869162.0,5.99,USD,Games,4.59645,2872.0,"Jundroo, LLC",57440.0,Games,Games
+754105884,372,NightCap Camera,754105884.0,2.99,USD,Photo & Video,4.38335,2825.0,RTD,56500.0,Entertainment,Entertainment
+301387274,373,Pocket God,301387274.0,0.99,USD,Entertainment,4.28981,2688.0,Bolt Creative,53760.0,Entertainment,Entertainment
+737568020,374,ACIM Remind,737568020.0,5.99,USD,Lifestyle,4.86296,2875.0,CDE Solutions Inc.,57500.0,Lifestyle,Lifestyle
+1563121109,375,Shattered Pixel Dungeon,1563121109.0,4.99,USD,Games,4.89527,3428.0,Evan Debenham,68560.0,Games,Games
+656951157,376,Playdead's LIMBO,656951157.0,3.99,USD,Games,4.55933,2646.0,Playdead,52920.0,Games,Games
+364593496,377,True Backgammon,364593496.0,3.99,USD,Games,4.34475,2628.0,"CompuLab, Markus Gömmel",52560.0,Games,Games
+460744832,378,Word Finder - wordhelper.org,460744832.0,2.99,USD,Games,4.76273,2592.0,Richard Loxley Ltd,51840.0,Games,Games
+1353841706,379,My Singing Monsters Composer,1353841706.0,2.99,USD,Games,4.48701,3117.0,Big Blue Bubble,62340.0,Games,Games
+1491530147,380,Slay the Spire,1491530147.0,9.99,USD,Games,4.22048,2871.0,Humble Bundle,57420.0,Games,Games
+1257573007,381,RV Dump Stations,1257573007.0,0.99,USD,Travel,4.21221,2851.0,Kyle Modesitt,57020.0,Travel,Travel
+1365164709,382,INKHUNTER PRO Tattoos try on,1365164709.0,0.99,USD,Lifestyle,4.77927,2605.0,InkHunter,52100.0,Lifestyle,Lifestyle
+390017969,383,Due - Reminders & Timers,390017969.0,7.99,USD,Productivity,4.67568,2664.0,Due Apps LLP,53280.0,Productivity,Productivity
+1065935771,384,Angel Answers Oracle Cards,1065935771.0,11.99,USD,Lifestyle,4.7637,2628.0,Oceanhouse Media,52560.0,Lifestyle,Lifestyle
+1109489005,385,ASA's Sailing Challenge,1109489005.0,3.99,USD,Education,4.80529,2758.0,American Sailing Association,55160.0,Education,Education
+1336026283,386,BATTLESHIP,1336026283.0,2.99,USD,Games,4.20239,2594.0,Marmalade Game Studio,51880.0,Games,Games
+579300320,387,Tides Near Me - No Ads,579300320.0,2.99,USD,Weather,4.8234,2684.0,"Shelter Island Mapping Company, LLC",53680.0,Weather,Weather
+414194259,388,Sunset and Sunrise Times,414194259.0,9.99,USD,Weather,4.86463,2593.0,Fascinating Projects,51860.0,Weather,Weather
+505367096,389,Fog of World,505367096.0,30.0,USD,Travel,4.81684,2768.0,Ollix,55360.0,Travel,Travel
+1435140819,390,Very Little Nightmares,1435140819.0,6.99,USD,Games,4.64428,2606.0,BANDAI NAMCO Entertainment Europe,52120.0,Games,Games
+393858566,391,Downcast,393858566.0,2.99,USD,News,4.27909,2612.0,Jamawkinaw Enterprises LLC,52240.0,News,Outside Good
+382452060,392,10BII Calc HD,382452060.0,8.99,USD,Finance,4.93004,3431.0,Ernest Brock,68620.0,Finance,Outside Good
+357404131,393,Slow Shutter Cam,357404131.0,2.99,USD,Photo & Video,4.62537,2680.0,Cogitap Software,53600.0,Entertainment,Entertainment
+347345474,394,ABBYY Business Card Reader Pro,347345474.0,59.99,USD,Business,4.57809,2529.0,ABBYY USA Software House Inc,50580.0,Productivity,Productivity
+626789870,395,Dog Monitor,626789870.0,6.99,USD,Lifestyle,4.74901,2526.0,TappyTaps s.r.o.,50520.0,Lifestyle,Lifestyle
+975683986,396,Door Kickers,975683986.0,4.99,USD,Games,4.8522,3004.0,KILLHOUSE GAMES SRL,60080.0,Games,Games
+516875543,397,Offroad Legends,516875543.0,0.99,USD,Games,4.54617,2631.0,Dogbyte Games Kft.,52620.0,Games,Games
+498360026,398,Sleep Time+ Cycle Alarm Timer,498360026.0,1.99,USD,Health & Fitness,4.77149,2477.0,Azumio Inc.,49540.0,Lifestyle,Lifestyle
+539397400,399,nPlayer Plus,539397400.0,8.99,USD,Entertainment,4.7078,2512.0,Newin Inc.,50240.0,Entertainment,Entertainment
+444844790,400,Scribblenauts Remix,444844790.0,0.99,USD,Games,3.631,2458.0,Warner Bros.,49160.0,Games,Games
+396085661,401,Game Dev Story,396085661.0,4.99,USD,Games,4.87865,2670.0,"Kairosoft Co.,Ltd",53400.0,Games,Games
+289616509,402,Mobile Mouse Remote,289616509.0,3.99,USD,Utilities,4.5457,2472.0,R.P.A. Tech,49440.0,Productivity,Productivity
+1328952941,403,3D Fish Feeding and Grow,1328952941.0,4.99,USD,Games,3.68517,2522.0,M Usman Rasheed,50440.0,Games,Games
+306526794,404,iBP Blood Pressure,306526794.0,0.99,USD,Medical,4.80987,2493.0,Leading Edge Apps LLC,49860.0,Health,Health
+1179421849,405,GRID™ Autosport,1179421849.0,9.99,USD,Games,4.53646,2632.0,Feral Interactive Ltd,52640.0,Games,Games
+893194736,406,Kitty Powers' Matchmaker,893194736.0,2.99,USD,Games,4.83279,2745.0,Magic Notion,54900.0,Games,Games
+972387337,407,Scrivener,972387337.0,23.99,USD,Productivity,4.20313,2496.0,Literature & Latte,49920.0,Productivity,Productivity
+736683061,408,A Dark Room,736683061.0,1.99,USD,Games,4.77098,2550.0,Amirali Rajan,51000.0,Games,Games
+1436429074,409,FILCA - Vintage Film Camera,1436429074.0,2.99,USD,Photo & Video,3.80387,2432.0,Cheol Kim,48640.0,Entertainment,Entertainment
+1511179040,410,Fitness Stats,1511179040.0,7.99,USD,Health & Fitness,4.77045,2457.0,"Indie Computing Labs, LLC",49140.0,Lifestyle,Lifestyle
+1222902155,411,Flight Board Pro,,,,,,,,,,
+1530940107,412,Pocket GM 2: Football Sim,1530940107.0,0.99,USD,Games,4.8575,2400.0,Jonathan Howell,48000.0,Games,Games
+350925062,413,World Map 2023 Pro,350925062.0,1.99,USD,Reference,4.68391,2686.0,Appventions,53720.0,Education,Education
+845657206,414,Baby Tracker Pro (Newborn Log),845657206.0,4.99,USD,Medical,4.77909,2440.0,Nighp Software LLC,48800.0,Health,Health
+329670577,415,Camera+ Legacy,329670577.0,4.99,USD,Photo & Video,4.23255,2335.0,LateNite Apps,46700.0,Entertainment,Entertainment
+585933440,416,Buycott - Barcode Scanner & QR Bar Code Scanner,585933440.0,1.99,USD,Shopping,4.50821,2373.0,Buycott Inc.,47460.0,E-commerce,Outside Good
+918609651,417,Money Pro: Personal Finance AR,918609651.0,0.99,USD,Finance,4.21527,2318.0,iBear LLC,46360.0,Finance,Outside Good
+1030902626,418,Scribblenauts Unlimited,1030902626.0,4.99,USD,Games,4.25532,2303.0,Warner Bros.,46060.0,Games,Games
+410413185,419,Weight Diary,410413185.0,7.99,USD,Health & Fitness,4.88405,2432.0,CURLYBRACE APPS LTD,48640.0,Lifestyle,Lifestyle
+1508808963,420,River Levels & Flows,1508808963.0,2.99,USD,Weather,4.60975,2483.0,"LW Brands, LLC",49660.0,Weather,Weather
+1073907652,421,Cardiograph,1073907652.0,1.99,USD,Health & Fitness,4.65405,2272.0,MacroPinch Ltd.,45440.0,Lifestyle,Lifestyle
+791684332,422,Find Car Anchor Pointer,791684332.0,0.0,USD,Navigation,4.61856,2758.0,Alexander Deplov,55160.0,Travel,Travel
+363691477,423,Cribbage HD,363691477.0,0.0,USD,Games,4.71642,2673.0,WildCard Classics Inc,53460.0,Games,Games
+449735650,424,Where's My Water?,449735650.0,1.99,USD,Games,4.3,2500.0,Disney,50000.0,Games,Games
+530829008,425,Speedometer 55 Pro. GPS kit.,530829008.0,3.99,USD,Navigation,4.72184,2495.0,Stanislav Dvoychenko,49900.0,Travel,Travel
+1008697836,426,Starting Strength Official,1008697836.0,14.99,USD,Health & Fitness,4.79504,2381.0,Shabu Pty Ltd,47620.0,Lifestyle,Lifestyle
+1269225754,427,Gorogoa,1269225754.0,4.99,USD,Games,4.63063,2266.0,Annapurna Interactive,45320.0,Games,Games
+504001448,428,Muscles & Kinesiology,504001448.0,24.99,USD,Medical,4.84113,2436.0,Visible Body Apps,48720.0,Health,Health
+347393479,429,Roadside America,347393479.0,2.99,USD,Travel,4.66167,2338.0,This Exit LLC,46760.0,Travel,Travel
+288419283,430,RadarScope,288419283.0,9.99,USD,Weather,4.18565,2537.0,"Base Velocity, LLC",50740.0,Weather,Weather
+1035430719,431,My Currency Converter Pro,1035430719.0,3.99,USD,Finance,4.86876,2484.0,JRustonApps B.V.,49680.0,Finance,Outside Good
+1095856653,432,Road Trip Planner™,1095856653.0,3.99,USD,Travel,4.17759,2258.0,Kyle Modesitt,45160.0,Travel,Travel
+1466120520,433,iVerify Basic,1466120520.0,0.99,USD,Utilities,4.65531,2350.0,iVerify,47000.0,Productivity,Productivity
+6449003064,434,Goblin Tools,6449003064.0,1.99,USD,Utilities,4.84453,2708.0,Skyhook,54160.0,Productivity,Productivity
+398299456,435,iAllowance (Chores Allowances),398299456.0,2.99,USD,Finance,4.37826,2263.0,James Spencer,45260.0,Finance,Outside Good
+549027629,436,Super Hexagon,549027629.0,2.99,USD,Games,4.4694,2173.0,Distractionware Limited,43460.0,Games,Games
+1104649303,437,My Moon Phase Pro - Alerts,1104649303.0,3.99,USD,Weather,4.88503,2331.0,JRustonApps B.V.,46620.0,Weather,Weather
+1038014543,438,Day R Premium: last world war,1038014543.0,2.99,USD,Games,4.57658,2220.0,RMIND GAMES L.L.C-FZ,44400.0,Games,Games
+365780014,439,iSolunar™ Hunt & Fish Times,365780014.0,5.99,USD,Sports,4.73876,2917.0,"RedSnake Enterprises, LLC",58340.0,Sports,Outside Good
+1638551535,440,Accounts 3 Checkbook,1638551535.0,4.99,USD,Finance,4.59342,2644.0,SVT Software,52880.0,Finance,Outside Good
+1601446687,441,Streets of Rage 4,1601446687.0,1.99,USD,Games,4.8624,2609.0,Playdigious,52180.0,Games,Games
+423492040,442,Planimeter — Measure Land Area,423492040.0,7.99,USD,Productivity,4.7446,2177.0,Core Signals,43540.0,Productivity,Productivity
+403684733,443,Badoo Premium,403684733.0,2.99,USD,Social Networking,4.48949,2284.0,Badoo Software Ltd,45680.0,Social,Outside Good
+1236011411,444,Sibley Birds 2nd Edition,1236011411.0,19.99,USD,Reference,4.88042,2467.0,mydigitalearth.com,49340.0,Education,Education
+1453647914,445,iWebTV PRO,1453647914.0,6.99,USD,Photo & Video,4.70005,3114.0,Swishly inc,62280.0,Entertainment,Entertainment
+950812012,446,Alto's Adventure,950812012.0,4.99,USD,Games,4.60132,2127.0,Snowman,42540.0,Games,Games
+381342267,447,Stack the States®,381342267.0,2.99,USD,Education,4.43762,2132.0,"Freecloud Design, Inc.",42640.0,Education,Education
+321293183,448,DashCommand - OBD-II Gauges,321293183.0,9.99,USD,Sports,4.22993,2118.0,"Auto Meter Products, Inc.",42360.0,Sports,Outside Good
+1488074449,449,Story Saver ∞,1488074449.0,4.99,USD,Social Networking,4.58619,2042.0,Yerzhan Tleuov,40840.0,Social,Outside Good
+1360656789,450,Ghost Science M3,1360656789.0,9.99,USD,Entertainment,4.61186,2293.0,Michael Weber,45860.0,Entertainment,Entertainment
+1059218666,451,Litchi for DJI Drones,1059218666.0,24.99,USD,Photo & Video,4.54836,2161.0,VC Technology Ltd,43220.0,Entertainment,Entertainment
+6447357776,452,Clue (2024),6447357776.0,4.99,USD,Games,4.80105,3217.0,Marmalade Game Studio,64340.0,Games,Games
+1336663439,453,AR Spiders,1336663439.0,1.99,USD,Entertainment,4.485,2066.0,Joachim Mertens,41320.0,Entertainment,Entertainment
+1462692186,454,TV Remote Controller,1462692186.0,0.99,USD,Lifestyle,4.65502,2032.0,Alexey Siginur,40640.0,Lifestyle,Lifestyle
+1440996640,455,"Flat Earth Sun, Moon & Zodiac",1440996640.0,2.99,USD,Utilities,4.71971,2105.0,Blue Water Bay,42100.0,Productivity,Productivity
+1406382064,456,ELOH,1406382064.0,2.99,USD,Games,4.87634,2046.0,Broken Rules,40920.0,Games,Games
+982175678,457,This War of Mine,982175678.0,13.99,USD,Games,4.40835,2155.0,11 bit studios s.a.,43100.0,Games,Games
+622613679,458,Survivalcraft,622613679.0,3.99,USD,Games,4.05525,2009.0,Igor Kalicinski,40180.0,Games,Games
+682472857,459,ASL Dictionary Sign Language,682472857.0,9.99,USD,Education,4.7343,2006.0,Software Studios LLC,40120.0,Education,Education
+564730202,460,Money Manager (Remove Ads),564730202.0,5.99,USD,Finance,4.83758,2426.0,Realbyte Inc.,48520.0,Finance,Outside Good
+1575414319,461,Dune: Imperium,1575414319.0,10.99,USD,Games,4.88313,3628.0,Dire Wolf Digital,72560.0,Games,Games
+775888026,462,Shadowmatic,775888026.0,3.99,USD,Games,4.77603,2036.0,TRIADA Studio,40720.0,Games,Games
+911006986,463,Banner Saga,911006986.0,9.99,USD,Games,4.7939,2033.0,Stoic,40660.0,Games,Games
+1511788295,464,Crying Suns,1511788295.0,8.99,USD,Games,4.79884,2063.0,Humble Bundle,41260.0,Games,Games
+1075462280,465,My Aurora Forecast Pro,1075462280.0,3.99,USD,Weather,4.79009,2482.0,JRustonApps B.V.,49640.0,Weather,Weather
+1042987645,466,Face Swap Live,1042987645.0,0.99,USD,Photo & Video,4.54365,2016.0,Laan Labs,40320.0,Entertainment,Entertainment
+1106687104,467,Stamena - Longer lasting sex,1106687104.0,2.99,USD,Health & Fitness,4.7462,2041.0,DRAWDOWN BRANDS LLC,40820.0,Lifestyle,Lifestyle
+900833042,468,Fliqlo,900833042.0,0.99,USD,Lifestyle,4.74416,2142.0,Yuji Adachi,42840.0,Lifestyle,Lifestyle
+1148385289,469,Cat Quest,1148385289.0,4.99,USD,Games,4.76499,1983.0,The Gentlebros.,39660.0,Games,Games
+1250484428,470,The Talos Principle,1250484428.0,4.99,USD,Games,4.60787,1956.0,Devolver,39120.0,Games,Games
+562989701,471,Vector Classic,562989701.0,0.99,USD,Games,4.89131,2429.0,Nekki Limited,48580.0,Games,Games
+540925164,472,Need for Speed™ Most Wanted,540925164.0,4.99,USD,Games,3.57897,2045.0,Electronic Arts,40900.0,Games,Games
+482504435,473,Tape Measure Calculator Pro,482504435.0,3.99,USD,Utilities,4.84586,2076.0,Bugfoot Studios LLC,41520.0,Productivity,Productivity
+393131384,474,HolyBible K.J.V. Pro,393131384.0,5.99,USD,Reference,4.86235,2579.0,ThoughtFul,51580.0,Education,Education
+1113085704,475,NASB MacArthur Study Bible,1113085704.0,23.99,USD,Reference,4.95783,2134.0,Bible App Labs LLC,42680.0,Education,Education
+720725216,476,Blocky Roads,720725216.0,0.99,USD,Games,4.61862,1922.0,Dogbyte Games Kft.,38440.0,Games,Games
+1216244658,477,Talking Emoji Pro for Texting,1216244658.0,3.99,USD,Shopping,4.10515,1997.0,智敏 黎,39940.0,E-commerce,Outside Good
+1668755109,478,Brotato:Premium,1668755109.0,4.99,USD,Games,4.71828,2673.0,Erabit Studios,53460.0,Games,Games
+635717885,479,YACReader - Comic Reader,635717885.0,4.99,USD,Entertainment,4.82308,2227.0,Luis Ángel San Martín,44540.0,Entertainment,Entertainment
+463371412,480,WeTalk Pro- WiFi Calling Phone,463371412.0,4.99,USD,Social Networking,4.44086,1860.0,WePhone Apps Inc,37200.0,Social,Outside Good
+326299607,481,Hearts Premium,326299607.0,1.99,USD,Games,4.58329,1975.0,Optime Software LLC,39500.0,Games,Games
+634235735,482,Duet Game,634235735.0,2.99,USD,Games,4.88593,1955.0,Kumobius,39100.0,Games,Games
+1264531625,483,Tropico,1264531625.0,12.99,USD,Games,4.75319,1953.0,Feral Interactive Ltd,39060.0,Games,Games
+952555810,484,Ski Safari 2,952555810.0,0.99,USD,Games,4.76399,1894.0,Sleepy Z Studios Pty Ltd,37880.0,Games,Games
+307312434,485,iMissal Catholic,307312434.0,4.99,USD,Reference,4.45566,1940.0,"Cantcha, Inc.",38800.0,Education,Education
+1076480192,486,Photo Manager Pro,1076480192.0,2.99,USD,Photo & Video,4.52956,1894.0,"Skyjos Co., Ltd.",37880.0,Entertainment,Entertainment
+1201419241,487,Bullet Journal Companion,1201419241.0,4.99,USD,Productivity,4.50342,1903.0,Lightcage LLC,38060.0,Productivity,Productivity
+1116905928,488,nPlayer,1116905928.0,4.99,USD,Entertainment,4.71488,1880.0,Newin Inc.,37600.0,Entertainment,Entertainment
+1502232038,489,Danganronpa: Trigger Happy Hav,1502232038.0,15.99,USD,Games,4.61681,1832.0,"Spike-Chunsoft CO, LTD.",36640.0,Games,Games
+1190758709,490,Sleep Sounds: relaxing sounds,1190758709.0,2.99,USD,Health & Fitness,4.65981,1896.0,Anna Koynova,37920.0,Lifestyle,Lifestyle
+1573482724,491,Coffee Inc 2,1573482724.0,1.99,USD,Games,4.70364,2136.0,Side Labs LLC,42720.0,Games,Games
+297606726,492,Fish Tycoon,297606726.0,0.99,USD,Games,4.30377,1804.0,"LDW Software, LLC",36080.0,Games,Games
+903911740,493,Forks Plant-Based Recipes,903911740.0,9.99,USD,Food & Drink,4.63439,1838.0,"Forks Over Knives, LLC",36760.0,Lifestyle,Outside Good
+1442776789,494,Pirates Outlaws,1442776789.0,0.99,USD,Games,4.46837,1802.0,Fabled Game Limited,36040.0,Games,Games
+414419105,495,iCatcher! Podcast Player,414419105.0,4.99,USD,News,4.72313,1842.0,Joeisanerd.com,36840.0,News,Outside Good
+1413887036,496,iMPC Pro 2 for iPhone,1413887036.0,12.99,USD,Music,4.65674,1780.0,Akai Professional,35600.0,Entertainment,Entertainment
+521577043,497,VinoCell - wine cellar manager,521577043.0,9.99,USD,Food & Drink,4.64821,1788.0,VinoDev,35760.0,Lifestyle,Outside Good
+510119487,498,AnatomyMapp,510119487.0,19.99,USD,Medical,4.80921,1955.0,Books of Discovery,39100.0,Health,Health
+924491991,499,Cs Music Pro,924491991.0,2.99,USD,Music,4.30213,1784.0,Mike Clay,35680.0,Entertainment,Entertainment
+373493387,500,AnkiMobile Flashcards,373493387.0,24.99,USD,Education,4.11623,2039.0,Ankitects Pty Ltd,40780.0,Education,Education
