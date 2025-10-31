@@ -10,3 +10,7 @@ matplotlib
 requests
 lxml # to parse HTML/XML
 itunes-app-scraper-dmi
+
+#additional for OLS
+statsmodels
+linearmodels
